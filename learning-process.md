@@ -23,11 +23,11 @@ The most interesting idea for me was that taking breaks and doing different acti
 
 ## Question 5: What are some of the actions you can take going forward to improve your learning process?
 
-1. **Use the Feynman Technique:**To explain complex programming concepts simply in your own words.
+1. **Use the Feynman Technique:** To explain complex programming concepts simply in your own words.
 2. **Manage Focus and Rest:**Balance focused work and diffuse thinking using the Pomodoro technique (25 minutes of deep focus).
-3. **Minimize Distractions:**Eliminate digital distractions by keeping phones silent and blocking social media during work hours.
-4. **Follow the Software Learning Framework:**By identifying where concepts apply and implementing them in code.
-5. **Embrace Active Practice:**Prioritize active recall, repetition, and coding over passive reading or highlighting.
+3. **Minimize Distractions:** Eliminate digital distractions by keeping phones silent and blocking social media during work hours.
+4. **Follow the Software Learning Framework:** By identifying where concepts apply and implementing them in code.
+5. **Embrace Active Practice:** Prioritize active recall, repetition, and coding over passive reading or highlighting.
 
 ## My Commitment
 
